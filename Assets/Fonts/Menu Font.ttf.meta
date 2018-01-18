@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 095836f25303e174cab2311439d8ae99
+timeCreated: 1514648226
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jack Brusher(RUS BY LYAJKA)
+  fontNames:
+  - Jack Brusher(RUS BY LYAJKA)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
